@@ -51,7 +51,7 @@ a:not(#no){
 }
 
 @media (max-width:380px){
-  flex-direction:column;
+  flex-direction:row;
 }
 
 
